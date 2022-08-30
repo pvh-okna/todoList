@@ -8,13 +8,12 @@ body{
     height: 100%;
     width: 445px;
     font-family: 'Noto Sans', sans-serif;
-    background-color: #b9d0ee;
+    background-color: #d3e0f0;
 }
 button{
     cursor: pointer;
 }
 .flex-wrapper{
-    background: #b9d0ee;
     min-height: 100px;
     padding: 10px;
 }
@@ -50,7 +49,7 @@ h1{
 }
 h2{
     width: 94%;
-    color: #3f3fb0;
+    color: #4c728d;
     text-align: center;
     margin:0 0 10px;
 }

@@ -47,7 +47,6 @@ todosWrapper.addEventListener('click',function (e) {
         showTasks();
     }
 })
-
 function changeTaskStatus(id, list){
     list.forEach((tasks) => {
         if (tasks.id == id){
